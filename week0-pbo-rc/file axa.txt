@@ -1,0 +1,3 @@
+nama 	= Fajrul Ramadhana Aqsa
+NIM 	= 122140118
+Alamat	= KORPRI
